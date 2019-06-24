@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="name_movie">Nama Movie</string>
+    <string name="deskripsi_movie">dekskripsi movie</string>
+    <string name="tanggal_rilis">tanggal rilis movie</string>
+    <string name="user_score">user score movie</string>
+
+    <string-array name="data_judul_movie">
+        <item>Avengers: Infinity War</item>
+        <item>Avengers: End Game</item>
+        <item>Spiderman: Far From Home</item>
+        <item>Cars</item>
+        <item>Detective Conan: The Fist of Blue Sapphire</item>
+        <item>Godzilla: King of The Monsters</item>
+        <item>Toy Story 4</item>
+    </string-array>
+    <string-array name="data_deskripsi_movie">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest. Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town offbeat characters.</item>
+        <item>23rd movie in the Detective Conan franchise.</item>
+        <item>The new story follows the heroic efforts of the crypto zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three headed King Ghidorah. When these ancient super species thought to be mere myths rise again, they all vie for supremacy, leaving humanity very existence hanging in the balance.</item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, Andy or Bonnie. But when Bonnie adds a reluctant new toy called Forky to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/avengers_infinity_war</item>
+        <item>@drawable/avengers_end_game</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/cars</item>
+        <item>@drawable/conan</item>
+        <item>@drawable/godzilla</item>
+        <item>@drawable/toy_story</item>
+    </array>
+    <string-array name="data_tanggal_rilis">
+        <item>April 27, 2018</item>
+        <item>April 26, 2019</item>
+        <item>July 2, 2019</item>
+        <item>June 9, 2006</item>
+        <item>April 12, 2019</item>
+        <item>May 31, 2019</item>
+        <item>June 21, 2019</item>
+    </string-array>
+    <string-array name="data_user_score">
+        <item>83%</item>
+        <item>84%</item>
+        <item>NR</item>
+        <item>67%</item>
+        <item>44%</item>
+        <item>63%</item>
+        <item>74%</item>
+    </string-array>
+
+</resources>
